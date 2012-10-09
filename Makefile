@@ -3,7 +3,7 @@
 #Suggested usage: git pull
 #                 sudo make install
 
-INSTALLDIR = /opt/wmfo/watchdog
+INSTALLDIR = /opt/wmfo/songFlagger
 OWNER = root
 MOD = 755
 FILES = songFlagger.sh
