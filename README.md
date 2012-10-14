@@ -10,10 +10,12 @@ mislabelled, or otherwise in need of review. It is called from a Macro cart
 in Rivendell on the SoundPanel.
 
 The Song Flagger is currently incomplete and will be worked on in the coming
-days and weeks.
+days and weeks. To run the current implementation, use `php getSongData.php`.
 
 Changelog
 ---------
 ###10/2/12
 Skeletal git repo. No code. - Max Goldstein
 
+###10/13/12
+Spinpapi integration pulls current song from Spinitron in php. Credentials for this are in a gitignore'd file. - Max Goldstein
